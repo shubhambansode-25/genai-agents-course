@@ -1,0 +1,2 @@
+# genai-agents-course
+
